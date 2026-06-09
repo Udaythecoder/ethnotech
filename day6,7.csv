@@ -1,0 +1,37 @@
+,,,,,,vlm/120,ap,MS-OFFICE,150,
+,,,,,,vlm/121,tn,DATA ANALYTICS,120,
+,,,,,,vlm/122,k,EXCEL,124,
+,,,,,,vlm/123,hy,MS-WORD,130,
+,,,,,,vlm/124,ap,SQL,100,
+,,,,,,vlm/125,tn,MS-OFFICE,98,
+,,,,,,vlm/126,tn,EXCEL,168,
+,,,,,,vlm/127,k,SQL,173,
+,,,,,,vlm/128,hy,DATA ANALYTICS,145,
+,,,,,,vlm/129,ap,MS-WORD,190,
+,,,date,vtype,courses,quantity,,,,
+,,,02-12-2026,sales,msword,1,,,,
+,,,03-12-2026,sales,msword,2,,,,
+,,,04-12-2026,sales,msword,3,,,,
+,date,vtype,courses,quantity,msword,4,,,,
+,02-12-2026,sales,msword,1,msword,5,,,,
+,03-12-2026,sales,msword,2,msword,6,,,,
+,04-12-2026,sales,msword,3,msword,7,,,,
+,05-12-2026,sales,msword,4,msword,8,,,,
+,06-12-2026,sales,msword,5,msword,9,,,,
+,07-12-2026,sales,msword,6,msword,10,,,,
+,08-12-2026,sales,msword,7,msword,11,,,,
+,09-12-2026,sales,msword,8,msword,12,,,,
+,10-12-2026,sales,msword,9,msword,13,,,,
+,11-12-2026,sales,msword,10,msword,14,,,,
+,12-12-2026,sales,msword,11,,,,,,
+date,13-12-2026,sales,msword,12,150,,,COURSES,COUNT,TOT_QUA
+01-02-2026,14-12-2026,sales,msword,13,120,,,DATA ANALYTICS,1,120
+02-02-2026,15-12-2026,sales,msword,14,124,,,EXCEL,1,124
+03-02-2026,sales,vlm/123,hy,MS-WORD,130,,,MS-WORD,2,320
+04-02-2026,sales,vlm/124,ap,SQL,100,,,SQL,2,273
+05-02-2026,sales,vlm/125,tn,MS-OFFICE,98,,,,1,98
+06-02-2026,sales,vlm/126,tn,EXCEL,168,,,,TOTAL,935
+07-02-2026,sales,vlm/127,k,SQL,173,,,,,
+08-02-2026,sales,vlm/128,hy,DATA ANALYTICS,145,,,,,
+09-02-2026,sales,vlm/129,ap,MS-WORD,190,,,,,
+10-02-2026,sales,,,,,,,,,
